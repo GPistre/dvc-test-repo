@@ -11,3 +11,4 @@ outs:
   size: 89823
   nfiles: 2
   path: data_from_registry
+  remote: storage
