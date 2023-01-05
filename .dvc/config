@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = storage-import
 ['remote "storage"']
     url = s3://ds-dvc-tests-repo
+['remote "storage-import"']
+    url = s3://ds-dvc-tests
