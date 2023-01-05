@@ -1,0 +1,5 @@
+outs:
+- md5: b79b608a8e5e27517554580a3a72e5cc.dir
+  size: 74501
+  nfiles: 3
+  path: data_from_repo
