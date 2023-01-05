@@ -1,10 +1,11 @@
-md5: e74fb60646ef0bbecac3a9e44401f93f
+md5: 653f5ac96332c8bf53db40811ab54da4
 frozen: true
 deps:
 - path: data_from_registry
   repo:
     url: git@github.com:GPistre/dvc-test-reg.git
     rev_lock: 389baa20dd554aa615d58d12ce18fd8094682386
+    rev: 0.0.1
 outs:
 - md5: 0f8b27238bc105f05ee4f149ead1d382.dir
   size: 89823
